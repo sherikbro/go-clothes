@@ -20,7 +20,6 @@ import { useNavigate } from "react-router-dom";
 
 const Index = () => {
   const [open, setOpen] = useState(false);
-  const [data, setData] = useState({});
   
   const [count, setCount] = useState()    //count
 
